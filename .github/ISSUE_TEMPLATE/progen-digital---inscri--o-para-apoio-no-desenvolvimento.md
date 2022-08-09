@@ -16,6 +16,6 @@ assignees: ''
 
 # Dados de Inscrição
 
-- **Quantas horas semanais você acredita que disponibilizará para o projeto:** Sim
+- **Quantas horas semanais você acredita que disponibilizará para o projeto:** 30 Horas
 - **Como avalia seu conhecimento ou experiência em REACT?** Avançado
 - **Consegue contribuir com o projeto até a entrega em produção?** Sim
