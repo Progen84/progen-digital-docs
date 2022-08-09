@@ -38,7 +38,7 @@ Se você está interessado contribuir com causas que impactam a vida de milhares
 
 * **[Kaique Prazeres](https://www.linkedin.com/in/kaiqueprazeres)** - *Organização e Arquitetura* - kaique.santos@programmers.com.br
 * **[Jilian Cappi](https://www.linkedin.com/in/jiliancappi)** - *Organização e Arquitetura* - jilian.cappi@programmers.com.br
-* **[Rodrigo Dias](mailto:rodrigo.dias@programmers.com.br)** - Professor no PROGEN - rodrigo.dias@programmers.com.br
+* **[Rodrigo Dias](mailto:rodrigo.dias@programmers.com.br)** - *Professor no PROGEN* - rodrigo.dias@programmers.com.br
 
 ## 💻 Colaboradores
 
