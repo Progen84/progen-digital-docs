@@ -9,7 +9,7 @@ Trata-se de um sistema simples e de baixa complexidade que não possui regras de
 Se você está interessado contribuir com causas que impactam a vida de milhares de pessoas, dentre elas jovens e adultos em situação de vulnerabilidade social neste projeto através de `linhas de código`:
 
 - Preencha o formulário de inscrição de uma [issue](https://github.com/Progen84/progen-digital-docs/issues/new/choose)
-- Entre em contato com os organizadores listados [aqui](#organizadores)
+- Entre em contato com os organizadores listados [aqui](https://github.com/Progen84/progen-digital-docs/blob/main/README.md#%EF%B8%8F-organizadores)
 
 ### 📋 Pré-requisitos
 
