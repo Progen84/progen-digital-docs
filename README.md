@@ -15,6 +15,7 @@ Se você está interessado contribuir com causas que impactam a vida de milhares
 
 ### 📦 Gerais
 
+- Ter uma conta no Github
 - Ser colaborador da Programmers Beyond IT¹
 - Disponibilidade para colaborar ativamente no projeto até a sua entrega em horário não comercial
 - Capacidade de sugerir melhorias que facilitem o dia a dia dos voluntários
