@@ -1,5 +1,9 @@
 # PROGEN Digital
 
+<p align="center">
+<img src="https://github.com/Progen84/progen-digital-docs/blob/main/progen-digtal.png" alt="PROGEN Digital" width="450">
+</p>
+
 O PROGEN Digital é uma iniciativa do PROGEN Campinas em parceria com a [Programmers Beyond IT](https://www.linkedin.com/company/programmersbeyondit/) que tem por objetivo tornar a gestão das informações dos participantes do programa mais simples e segura através de um sistema que concentre todas as informações utilizadas no dia a dia pelos apoiadores e voluntários.
 
 Trata-se de um sistema simples e de baixa complexidade que não possui regras de negócio robustas, apenas algumas particularidades associadas com dados.
